@@ -1,0 +1,31 @@
+{
+  "files": {
+    "app.js": "/afrik/static/js/app.73ab087c.chunk.js",
+    "app.js.map": "/afrik/static/js/app.73ab087c.chunk.js.map",
+    "runtime~app.js": "/afrik/static/js/runtime~app.205c3f58.js",
+    "runtime~app.js.map": "/afrik/static/js/runtime~app.205c3f58.js.map",
+    "static/js/2.06c71440.chunk.js": "/afrik/static/js/2.06c71440.chunk.js",
+    "static/js/2.06c71440.chunk.js.map": "/afrik/static/js/2.06c71440.chunk.js.map",
+    "favicon-16.png": "/afrik/favicon-16.png",
+    "favicon-32.png": "/afrik/favicon-32.png",
+    "favicon.ico": "/afrik/favicon.ico",
+    "index.html": "/afrik/index.html",
+    "manifest.json": "/afrik/manifest.json",
+    "serve.json": "/afrik/serve.json",
+    "service-worker.js.map": "/afrik/service-worker.js.map",
+    "static/js/2.06c71440.chunk.js.LICENSE.txt": "/afrik/static/js/2.06c71440.chunk.js.LICENSE.txt",
+    "static/media/afrikbackground.png": "/afrik/static/media/afrikbackground.582effe5.png",
+    "static/media/cashappIcon.png": "/afrik/static/media/cashappIcon.bb26a2e9.png",
+    "static/media/fancybox_loading.gif": "/afrik/static/media/fancybox_loading.78a563f0.gif",
+    "static/media/fancybox_loading@2x.gif": "/afrik/static/media/fancybox_loading@2x.d8f0a972.gif",
+    "static/media/fancybox_overlay.png": "/afrik/static/media/fancybox_overlay.f0eb3448.png",
+    "static/media/fancybox_sprite.png": "/afrik/static/media/fancybox_sprite.7b8e2ce6.png",
+    "static/media/fancybox_sprite@2x.png": "/afrik/static/media/fancybox_sprite@2x.89fa20c7.png",
+    "static/media/logo.png": "/afrik/static/media/logo.8c1f259e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.205c3f58.js",
+    "static/js/2.06c71440.chunk.js",
+    "static/js/app.73ab087c.chunk.js"
+  ]
+}
